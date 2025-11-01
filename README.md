@@ -105,21 +105,7 @@ The **DBSCAN** and **BIRCH** sets again achieved superior results with nearly pe
 
 ---
 
-## 📂 Repository Structure  
 
-```
-├── notebooks/
-│   ├── data_analysis.ipynb
-│   ├── clustering_methods.ipynb
-│   ├── svm_classifier.ipynb
-│   └── neural_network.ipynb
-├── data/
-│   └── reduced_datasets/
-├── README.md
-└── requirements.txt
-```
-
----
 
 ## 🧠 Key Learning Outcomes  
 
